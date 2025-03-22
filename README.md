@@ -5,6 +5,6 @@ I'm an aspiring Electrical Engineer with a passion for hands-on projects and pro
 
 ## Resume
 
-![resume](https://raw.githubusercontent.com/Japrier/Portfolio/main/Resume-1.png)
+![resume](Resume-1.png)
 
 ## Projects
