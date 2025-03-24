@@ -9,4 +9,4 @@ I'm an aspiring Electrical Engineer with a passion for hands-on projects and pro
 ## Projects
 
 ### RGB LED Controller
-![resume](Resume-1.png)
+![Lab report for the RGB LED Controller](projects/Lab13.pdf)
