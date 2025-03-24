@@ -6,5 +6,7 @@ I'm an aspiring Electrical Engineer with a passion for hands-on projects and pro
 ## Resume
 
 ![resume](Resume-1.png)
-
 ## Projects
+
+### RGB LED Controller
+![resume](Resume-1.png)
